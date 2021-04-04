@@ -8,22 +8,14 @@
       <change afterPath="$PROJECT_DIR$/../LinearEquationResolver/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LinearEquationResolver/LinearEquationResolver.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LinearEquationResolver/src/LinearEquationResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/TestQuan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/src/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/src/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/src/bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestQuan/src/bai_3_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../whichMonth/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../whichMonth/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../whichMonth/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../whichMonth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../whichMonth/src/whichMonth.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../whichMonth/whichMonth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qbgMZBvUymrtfvlnZoZSovcVvr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,20 +45,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestQuan/src" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../whichMonth" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,6 +58,8 @@
       <updated>1617353657228</updated>
       <workItem from="1617353658435" duration="124000" />
       <workItem from="1617358608796" duration="57000" />
+      <workItem from="1617358684317" duration="140000" />
+      <workItem from="1617418699319" duration="129000" />
     </task>
     <servers />
   </component>
